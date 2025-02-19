@@ -1,0 +1,33 @@
+_repo: Lankeemus_75259
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Bove, Emmanuel
+    gutenberg_agent_id: '57907'
+    url: http://www.gutenberg.org/2009/agents/57907
+description: ''
+gutenberg_issued: '2025-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75259'
+language: fi
+pgterms:marc905: 20241114040239bove
+pgterms:marc906: '1929'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lankeemus
+url: http://www.gutenberg.org/ebooks/75259
